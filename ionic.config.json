@@ -1,0 +1,7 @@
+{
+  "name": "StateBugExample",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
